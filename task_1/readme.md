@@ -1,3 +1,5 @@
+Аналіз швидкості роботи алгоритмів сортування злиттям, вставками та вбудованого алгоритму Timsort на різних наборах даних.
+
 Array Length: 10
 Merge Sort Time: 0.000015 seconds
 Insertion Sort Time: 0.000006 seconds
@@ -22,3 +24,4 @@ Array Length: 100000
 Merge Sort Time: 0.143263 seconds
 Insertion Sort Time: 113.473816 seconds
 Timsort Time: 0.012183 seconds
+
